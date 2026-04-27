@@ -40,24 +40,4 @@ PostgreSQL | MySQL | Oracle | MongoDB | DynamoDB
 Git | GitHub | Jenkins | SonarQube | Postman
 
 ---
-
-## 💼 Professional Experience
-
-### Java Full Stack Developer
-Volkswagen of America (2025 - Present)
-
-### Java Full Stack Developer
-Western Alliance Bank (2024 - 2025)
-
-### Software Developer
-Maxim Healthcare (2021 - 2023)
-
----
-
-## 📜 Certifications
-
-✔ Oracle Certified Associate Java SE 8  
-✔ AWS Certified Solutions Architect Associate
-
----
 ⭐ Thanks for visiting my profile!
