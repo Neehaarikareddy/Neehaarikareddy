@@ -6,8 +6,6 @@
 
 🚀 Skilled in Java, Spring Boot, Microservices, ReactJS, TypeScript, AWS, GCP, Docker, Kubernetes.
 
-📍 Based in USA
-
 ---
 
 ## 👩‍💻 About Me
